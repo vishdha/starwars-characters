@@ -1,5 +1,5 @@
 {
-  "name": "starwars-characters",
+  "name": "starwars-characters-list",
   "version": "1.0.0",
   "description": "Get Random Star Wars names",
   "main": "src/index.js",
