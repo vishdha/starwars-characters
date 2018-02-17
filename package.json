@@ -1,0 +1,27 @@
+{
+  "name": "starwars-charactes",
+  "version": "1.0.0",
+  "description": "Get Random Star Wars names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishdha/starwars-characters.git"
+  },
+  "keywords": [
+    "Random",
+    "Star",
+    "Wars"
+  ],
+  "author": "Vishal V. Dhayagude <vishaldhayagude07@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishdha/starwars-characters/issues"
+  },
+  "homepage": "https://github.com/vishdha/starwars-characters#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
